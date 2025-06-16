@@ -1,2 +1,2 @@
-# Hackathon-project_1
+# Hackathon-hexafalls
 Basic decentralized auction platform
